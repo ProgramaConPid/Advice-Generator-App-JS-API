@@ -64,3 +64,7 @@ img {
 .btn-random:hover {
   box-shadow: 0 0 10px var(--Neon-Green);
 }
+
+a {
+  color: #fff;
+}
